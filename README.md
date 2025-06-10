@@ -1,7 +1,7 @@
 Hi there 👋
 
 - I’m currently a Computer Engineering Student at NYU
-- I know Python and am currently learning C++ and SQL
+- I know Python and C++ and am currently SQL
 - I love Rock Climbing and playing Volleyball
 - I enjoy playing video games and want to get into modding to practice my coding
 - How to reach me: tm4180@nyu.edu
