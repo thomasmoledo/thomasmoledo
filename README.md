@@ -6,4 +6,4 @@ Hi there 👋
 - I enjoy playing video games and want to get into game dev and modding to practice my coding
 - How to reach me: tm4180@nyu.edu
 - Pronouns: He/Him
-- Fun fact: I speak English, Portuguese, and Spanish and am learning French
+- Fun fact: I speak English, Portuguese, Spanish and am learning French
