@@ -1,9 +1,10 @@
 Hi there 👋
 
-- I’m currently a Computer Engineering Student at NYU
-- I know Python, C++, SQL, and am learning GDscript
+- I’m currently a Computer Science Student at NYU
+- Currently pursuing a Game Engineering Minor
+- I know Python, C++, and SQL
 - I love Rock Climbing and playing Volleyball
-- I enjoy playing video games and want to get into game dev and modding to practice my coding
 - How to reach me: tm4180@nyu.edu
 - Pronouns: He/Him
-- Fun fact: I speak English, Portuguese, Spanish and am learning French
+- Fun fact: I speak English, Brazilian Portuguese, Spanish and am learning French
+- I like Cats a lot...
